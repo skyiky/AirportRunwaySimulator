@@ -1,0 +1,45 @@
+Queue created.  Empty? true
+How many elements to add to the queue? 10
+Contents of queue q1 (via  print):
+100  200  300  400  500  600  700  800  900  1000  
+
+Contents of queue q2 after q2 = q1 (via  print):
+100  200  300  400  500  600  700  800  900  1000  
+
+Queue q2 empty? false
+Front value in q2: 100
+Remove front -- Queue contents: 200  300  400  500  600  700  800  900  1000  
+Remove front -- Queue contents: 300  400  500  600  700  800  900  1000  
+Remove front -- Queue contents: 400  500  600  700  800  900  1000  
+Remove front -- Queue contents: 500  600  700  800  900  1000  
+Remove front -- Queue contents: 600  700  800  900  1000  
+Remove front -- Queue contents: 700  800  900  1000  
+Remove front -- Queue contents: 800  900  1000  
+Remove front -- Queue contents: 900  1000  
+Remove front -- Queue contents: 1000  
+Remove front -- Queue contents: 
+Queue q2 empty? true
+Front value in q2?
+0
+Queue q1, front = 200?
+200  100  300  400  500  600  700  800  900  1000  
+Queue q1, front = 100?
+100  200  300  400  500  600  700  800  900  1000  
+Queue q1, front = 500?
+500  100  200  300  400  600  700  800  900  1000  
+Queue q1, front = 800?
+800  500  100  200  300  400  600  700  900  1000  
+Queue q1, front = 1000?
+1000  800  500  100  200  300  400  600  700  900  
+q2:
+1  150  100  301  1000  2000  3000  
+q1:
+1000  800  500  100  200  300  400  600  700  900  
+q1 and q2 merged:
+1  100  150  301  1000  1000  2000  3000  
+q3:
+1  3  5  
+q4
+2  4  6  
+q3 and q4 merged:
+1  2  3  4  5  6

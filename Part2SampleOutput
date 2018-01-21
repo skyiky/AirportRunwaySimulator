@@ -1,0 +1,132 @@
+Time for a plane to land (in minutes): 3
+Time for a plane to takeOff (in minutes): 3
+Landing rate (planes per hour): 7
+Takeoff rate (planes per hour): 15
+How long to run the simulation (in minutes): 45
+Time = 0
+Time = 1
+Time = 2
+Time = 3
+Plane 1000 wants to takeoff; added to takeoff queue; 1 in queue
+Taking Off; Plane 1000
+Time = 4
+Time = 5
+Time = 6
+Takeoff complete; 0 in queue
+Time = 7
+Time = 8
+Time = 9
+Time = 10
+Plane 1001 wants to takeoff; added to takeoff queue; 1 in queue
+Taking Off; Plane 1001
+Time = 11
+Plane 1002 wants to land; added to landing queue; 1 in queue
+Time = 12
+Plane 1003 wants to land; added to landing queue; 2 in queue
+Time = 13
+Plane 1004 wants to takeoff; added to takeoff queue; 1 in queue
+Takeoff complete; 1 in queue
+Landing; Plane 1002
+Time = 14
+Plane 1005 wants to takeoff; added to takeoff queue; 2 in queue
+Time = 15
+Time = 16
+Landing complete; 1 in queue
+Landing; Plane 1003
+Time = 17
+Time = 18
+Time = 19
+Landing complete; 0 in queue
+Taking Off; Plane 1004
+Time = 20
+Plane 1006 wants to land; added to landing queue; 1 in queue
+Time = 21
+Plane 1007 wants to land; added to landing queue; 2 in queue
+Time = 22
+Plane 1008 wants to land; added to landing queue; 3 in queue
+Plane 1008 is emergency plane, added to front of landing queue
+Takeoff complete; 1 in queue
+Landing; Plane 1008
+Time = 23
+Plane 1009 wants to land; added to landing queue; 2 in queue
+Plane 1010 wants to takeoff; added to takeoff queue; 2 in queue
+Time = 24
+Time = 25
+Landing complete; 2 in queue
+Landing; Plane 1006
+Time = 26
+Plane 1011 wants to takeoff; added to takeoff queue; 3 in queue
+Time = 27
+Time = 28
+Plane 1012 wants to takeoff; added to takeoff queue; 4 in queue
+Landing complete; 1 in queue
+Landing; Plane 1007
+Time = 29
+Time = 30
+Time = 31
+Plane 1013 wants to takeoff; added to takeoff queue; 5 in queue
+Landing complete; 0 in queue
+Taking Off; Plane 1005
+Time = 32
+Plane 1014 wants to takeoff; added to takeoff queue; 5 in queue
+Time = 33
+Time = 34
+Takeoff complete; 5 in queue
+Taking Off; Plane 1010
+Time = 35
+Plane 1015 wants to takeoff; added to takeoff queue; 5 in queue
+Time = 36
+Plane 1016 wants to takeoff; added to takeoff queue; 6 in queue
+Time = 37
+Takeoff complete; 6 in queue
+Taking Off; Plane 1011
+Time = 38
+Plane 1017 wants to land; added to landing queue; 1 in queue
+Plane 1017 is emergency plane, added to front of landing queue
+Plane 1018 wants to takeoff; added to takeoff queue; 6 in queue
+Time = 39
+Time = 40
+Takeoff complete; 6 in queue
+Landing; Plane 1017
+Time = 41
+Time = 42
+Time = 43
+Landing complete; 0 in queue
+Taking Off; Plane 1012
+Time = 44
+Plane 1019 wants to takeoff; added to takeoff queue; 6 in queue
+No new takeoffs or landings will be generated.
+Time = 45
+Time = 46
+Takeoff complete; 6 in queue
+Taking Off; Plane 1013
+Time = 47
+Time = 48
+Time = 49
+Takeoff complete; 5 in queue
+Taking Off; Plane 1014
+Time = 50
+Time = 51
+Time = 52
+Takeoff complete; 4 in queue
+Taking Off; Plane 1015
+Time = 53
+Time = 54
+Time = 55
+Takeoff complete; 3 in queue
+Taking Off; Plane 1016
+Time = 56
+Time = 57
+Time = 58
+Takeoff complete; 2 in queue
+Taking Off; Plane 1018
+Time = 59
+Time = 60
+Time = 61
+Takeoff complete; 1 in queue
+Taking Off; Plane 1019
+Time = 62
+Time = 63
+Time = 64
+Takeoff complete; 0 in queue
+End of program.
